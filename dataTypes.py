@@ -1,0 +1,6 @@
+print("This is a string datatype")
+print(2+2)
+print("2+5")
+print(45.7869)
+print(True)
+print(False)
