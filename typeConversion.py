@@ -19,6 +19,17 @@ print(type({
     'Name':'Yaseswi'
 }))
 
+x = 'Yaseswi'
+y = 10
+print(type(x))
+print(bool(x))
+print(type(y))
+print(str(y))
+print(float(y))
+print(list(x))
+print(tuple(x))
+print(set(x))
+
 
 
 
