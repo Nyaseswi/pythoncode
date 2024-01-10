@@ -15,3 +15,12 @@ print("Positive slice:", positive_slice)  # Output: World
 # Using negative indices
 negative_slice = text[-6:-1]
 print("Negative slice:", negative_slice)  # Output: World
+
+print('Negative Slicing')
+print('The index -1 refers to the last element, -2 refers to the second-to-last element, and so on.')
+text = "Negative Slicing!"
+print(len(text))
+# Using negative indices
+negative_slice = text[-8:-1]
+print("Negative slice:", negative_slice)  
+
