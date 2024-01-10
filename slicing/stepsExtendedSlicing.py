@@ -24,3 +24,10 @@ print('4 step extended slicing:', name[0:6:4])
 print('-1 last element:', name[-8:-1])
 print('Reverse String:', name[::-1])
 
+numbers0 = [10,9,8,7,6,5,4,3,2,1]
+numbers1 = [1,2,3,4,5,6,7,8,9,10]
+print('de-sending Order:', numbers0[9:0:-1])
+print('As-sending Order:', numbers1[9:0:-1])
+
+
+
