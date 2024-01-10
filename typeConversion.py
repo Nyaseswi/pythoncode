@@ -7,6 +7,19 @@ print('List:', [1,2,3])
 print('Tuple:',(1,2,3))
 print('Set:',{1,2,3})
 print('Dictionary: dict',{'Name':'ssv'})
+# data types 
+print(type(('Yaseswi')))
+print(type(10))
+print(type(10.78384))
+print(type(False))
+print(type([1,2,3]))
+print(type((1,2,3)))
+print(type({1,2,3}))
+print(type({
+    'Name':'Yaseswi'
+}))
+
+
 
 
 print(type('yaseswi'))
